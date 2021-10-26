@@ -2,3 +2,4 @@ Link para download do Git: https://git-scm.com/downloads
 O Git Bash é um terminal extendido para otimizar o uso do Git.
 
 Link para acessar o GitHub: github.com
+O GitHub é um Hub onde você pode encontrar e publicar repositórios.
