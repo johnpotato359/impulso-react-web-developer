@@ -1,0 +1,64 @@
+/*Reset Básico*/
+* {
+    box-sizing: border-box;
+}
+
+.flex {
+    max-width: 300px;
+    padding: 10px;
+    border: 2px solid black;
+    display: flex;
+    justify-content: center;
+}
+
+.item {
+    background-color: aqua;
+    margin: 5px;
+}
+
+.flex-container {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    list-style: none;
+}
+
+.flex-item {
+    background-color: blue;
+    height: 50px;
+    width: 50px;
+    line-height: 50px;
+    color: #FFF;
+    margin: 5px;
+    text-align: center;
+    font-size: 20px;
+}
+
+.row {
+    flex-direction: row;
+}
+
+.row-reverse {
+    flex-direction: row-reverse;
+}
+
+.row-reverse li {
+    background-color: red;
+}
+
+.column {
+    flex-direction: column;
+    float: left;   
+}
+
+.column-reverse {
+    flex-direction: column-reverse;
+}
+
+.column li {
+    background-color: orange;
+}
+
+.column-reverse li {
+    background-color: purple;
+}
