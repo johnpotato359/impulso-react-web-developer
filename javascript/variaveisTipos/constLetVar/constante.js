@@ -7,5 +7,3 @@
 
 const PRIMEIRO_NOME = "Júnior";
 const SOBRE_NOME = "Mendes";
-
-
